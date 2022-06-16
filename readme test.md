@@ -3,7 +3,7 @@
 <details>
 <summary><h3>5.01</h3></summary>
 <br>
-1. Original Release Firmware
+1. Original Release Firmware<br>
 OTA file not released for this version due to lack of support for Adesto flash in newer hardware.
 </details>
 <details>
