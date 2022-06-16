@@ -1,0 +1,18 @@
+﻿FIRMWARE REVISION HISTORY,,,
+ZW3104 Enbrighten GE 28167 Plug-in 1-Outlet Smart Dimmer,,,
+VERSION,5.01,5.21,5.25
+Z-Wave Devkit,6.51.06,6.51.08,6.51.08
+Date Code,1544,1651,1751
+# changes,1,12,6
+Change 1,1. Original Release Firmware (OTA file not released due to lack of support for Adesto flash in newer hardware),1. Modified the button press process to change the LED status,1. Added parameter #16
+Change 2,,"2. Modified the value to 2 for the parameter #8, #10 and #12",2. Added minimum dim level 
+Change 3,,3. Modified the asscoation to 3 groups (5 node each group),3. Added button press process to enter switch mode
+Change 4,,"4. Added Instantaneous Reports CC, Scene Activation CC and Scene Actuator CC",4. Fixed Scene Actuator Configuration
+Change 5,,5. Modified the button press process for association group 2 and 3,5. Fixed Scene Activation command class
+Change 6,,"6. Modified the lifeline assocation group, 5 node will send singlecast message when the devicereset locally",6. Fixed the dimming duration for command class Switch Multilevel Set
+Change 7,,7. Removed CRC,
+Change 8,,8. Updated to S-0,
+Change 9,,9. Modified some command classes to support both security and non-security network,
+Change 10,,10. Updated the multilevel command class to version 2,
+Change 11,,11. Added parameter 6,
+Change 12,,12. Modify the default status for LED,
