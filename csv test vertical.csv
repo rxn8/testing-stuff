@@ -3,7 +3,6 @@
 VERSION,5.01,5.21,5.25
 Z-Wave Devkit,6.51.06,6.51.08,6.51.08
 Date Code,1544,1651,1751
-# changes,1,12,6
 Change 1,1. Original Release Firmware (OTA file not released due to lack of support for Adesto flash in newer hardware),1. Modified the button press process to change the LED status,1. Added parameter #16
 Change 2,,"2. Modified the value to 2 for the parameter #8, #10 and #12",2. Added minimum dim level 
 Change 3,,3. Modified the asscoation to 3 groups (5 node each group),3. Added button press process to enter switch mode
