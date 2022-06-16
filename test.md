@@ -29,7 +29,7 @@ We are only omitting firmware files that were built using Z-Wave Devkit 6.51.06 
 
 This only affects certain older versions of firmware, and if someone is trying to downgrade, it does not affect anyone upgrading their firmware.
 
-### FULL EXPLANATION (for those who want all of the information):
+### FULL EXPLANATION:
 
 Z-Wave Plus products are required to use a specific kind of flash memory due to Z-Wave requirements for OTA updates. This memory is uncommon and there are very few supported suppliers.
 
@@ -45,7 +45,7 @@ This was an emergency that affected all Z-Wave Plus manufacturers supporting OTA
 
 ALL older products that use the <b>Micron</b> flash <b>can</b> be updated to use the latest firmware OTA files available <b>without issue.</b>
 
-All products made with the <b>Adesto</b> Flash <b>cannot</b> be downgraded to a firmware version previously compiled with 6.51.06 or below.
+All products made with the <b>Adesto</b> flash <b>cannot</b> be downgraded to a firmware version previously compiled with 6.51.06 or below.
 
 This does not affect any products that were built after Adesto or that were built using Z-Wave Devkits 6.51.07 and later.
 
