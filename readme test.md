@@ -3,7 +3,8 @@
 <details>
 <summary><h3>5.01</h3></summary>
 <br>
-1. Original Release Firmware (OTA file not released due to lack of support for Adesto flash in newer hardware)
+1. Original Release Firmware
+OTA file not released for this version due to lack of support for Adesto flash in newer hardware.
 </details>
 <details>
 <summary><h3>5.21</h3></summary>
@@ -19,7 +20,7 @@
 9. Modified some command classes to support both security and non-security network<br>
 10. Updated the multilevel command class to version 2<br>
 11. Added parameter 6<br>
-12. Modify the default status for LED<br>
+12. Modify the default status for LED
 </details>
 <details>
 <summary><h3>5.25</h3></summary>
@@ -29,5 +30,5 @@
 3. Added button press process to enter switch mode<br>
 4. Fixed Scene Actuator Configuration<br>
 5. Fixed Scene Activation command class<br>
-6. Fixed the dimming duration for command class Switch Multilevel Set<br>
+6. Fixed the dimming duration for command class Switch Multilevel Set
 </details>
